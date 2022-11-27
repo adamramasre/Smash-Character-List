@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="20086" systemVersion="21A559" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="UltimateCharacter" representedClassName="UltimateCharacter" syncable="YES">
+        <attribute name="characterName" optional="YES" attributeType="String"/>
+        <attribute name="erased" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="fastestOOSFrame" optional="YES" attributeType="String"/>
+        <attribute name="fastestOOSMove" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="tipOne" optional="YES" attributeType="String"/>
+        <attribute name="tipThree" optional="YES" attributeType="String"/>
+        <attribute name="tipTwo" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="UltimateCharacter" positionX="-45" positionY="0" width="128" height="149"/>
+    </elements>
+</model>
